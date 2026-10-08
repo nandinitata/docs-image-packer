@@ -1,0 +1,9 @@
+{
+  "name": "docs-image-packer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Google Docs add-on that packs images into tidy justified rows.",
+  "scripts": {
+    "test": "node test/layout.test.js"
+  }
+}
